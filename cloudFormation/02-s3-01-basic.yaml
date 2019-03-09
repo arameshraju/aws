@@ -1,0 +1,6 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: My first s3 bucket sameple template
+Resources:
+  Mys3Buciket:
+    Type: AWS::S3::Bucket
+
